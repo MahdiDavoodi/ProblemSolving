@@ -1,8 +1,9 @@
 # Problem Solving
 
-In this repository, you can see and explore my answers to various problems on the internet. I solve the using languages that I'm currently learning.
+This repository is not Language-based. You can find practices dedicated to each language on my profile. But here, it's all about problem-solving. The ways to solve each problem. I'll try my best to come back and improve my answers.
 
-You can find these languages:
+I mostly use:
+
 * Kotlin
 * Bash / Shell
 * Java
@@ -10,10 +11,15 @@ You can find these languages:
 * Python
 
 Some of my resources are:
-* [Exercism](https://exercism.org "Link")
+
+* [CoderByte](https://coderbyte.com/challenges "Link")
 * [HackerRank](https://www.hackerrank.com/dashboard "Link")
 * [LeetCode](https://leetcode.com "Link")
 
+If you want to focus on learning a specific **programming language**, I recommend [Exercism](https://exercism.org/tracks "Link").
 
-Created:
->December, 2021
+## **Daily Steps**
+
+I'm a beginner and this is my plan to improve my problem-solving skills. So each day, I try to solve a problem in an hour or less. You can follow along or you can find the codes based on their provider.
+
+> Created in December 2021.
