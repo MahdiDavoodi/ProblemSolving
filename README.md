@@ -6,6 +6,8 @@ You can find these languages:
 * Kotlin
 * Bash / Shell
 * Java
+* JavaScript
+* Python
 
 Some of my resources are:
 * [Exercism](https://exercism.org "Link")
