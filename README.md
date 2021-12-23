@@ -19,4 +19,6 @@ If you want to focus on learning a specific **programming language**, I recommen
 
 I'm a beginner and this is my plan to improve my problem-solving skills. So each day, I try to solve a problem in an hour or less. If it takes more than that, I just commit all I've done until that point. You can follow along or you can find the codes based on their provider.
 
+I don't check recommended solutions from the website until I figure out the solution by myself. At first, you should solve the problem in any way that you can think of. Then you have to think about the ways to optimize your solution. If you can't go further, then check the recommended Solutions or other people's solutions for the problem. You can learn better in this way.
+
 > Since December 2021.
