@@ -12,7 +12,6 @@
 >
 > _**Only one valid answer exists.**_
 
-
 ## Solution
 
 The best answer is the one that is currently available in this directory. You can also see some of my previous iterations and attempts to solve this problem.
