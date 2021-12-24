@@ -49,3 +49,25 @@
 The best answer is the one that is currently available in this directory. You can also see some of my previous iterations and attempts to solve this problem.
 
 ### Iteration 1 - All me
+
+```java
+public class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int[] result = new int[2];
+        for (int i = 0; i < nums.length; i++) {
+            int a = nums[i];
+            for (int j = i + 1; j < nums.length; j++)
+                if ((a + nums[j]) == target) {
+                    result[0] = i;
+                    result[1] = j;
+                    return result;
+                }
+        }
+        return result;
+    }
+}
+```
+
+Because of the usage of two for loops, in the worst situation, we have to iterate through the array multiple times.
+
+That leaves us with the time complexity of n^2. We have to find a way to optimize this operation.
