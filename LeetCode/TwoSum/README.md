@@ -1,4 +1,4 @@
-# Read me
+# Two Sum
 
 ✅ Try to solve [this](https://leetcode.com/problems/two-sum/) problem by yourself before checking answers.
 
@@ -48,7 +48,7 @@
 
 The best answer is the one that is currently available in this directory. You can also see some of my previous iterations and attempts to solve this problem.
 
-### Iteration 1 - All me
+### Iteration 1 - My first attempt
 
 ```java
 public class Solution {
@@ -67,6 +67,12 @@ public class Solution {
     }
 }
 ```
+
+☀️ Result:
+
+> Runtime: 34 ms, faster than 42.80% of Java online submissions for Two Sum.
+>
+> Memory Usage: 39 MB, less than 88.28% of Java online submissions for Two Sum.
 
 Because of the usage of two for loops, in the worst situation, we have to iterate through the array multiple times.
 
