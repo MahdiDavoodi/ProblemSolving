@@ -70,4 +70,4 @@ public class Solution {
 
 Because of the usage of two for loops, in the worst situation, we have to iterate through the array multiple times.
 
-That leaves us with the time complexity of n^2. We have to find a way to optimize this operation.
+That leaves us with the time complexity of O(n2). We have to find a way to optimize this operation.
