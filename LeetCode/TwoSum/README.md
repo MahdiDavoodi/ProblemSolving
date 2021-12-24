@@ -4,7 +4,7 @@
 
 ## Problem
 
--> See the problem with full explanation on LeetCode.com
+-> Check the problem with more explanation on LeetCode.com
 
 > Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 >
