@@ -14,12 +14,22 @@ If you want to focus on learning a specific **programming language**, I recommen
 
 ## **Daily Update**
 
-* Day 1
-  * [LeetCode - Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum) - Java - Iteration 1
-* Day 2
-  * [LeetCode - Add Two Numbers](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/AddTwoNumbers) - Java - Iteration 1
-* Day 3
-  * [LeetCode - Longest Substring Without Repeating Characters](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestSubstringWithoutRepeatingCharacters) - Kotlin - Iteration 1
+> Levels:
+>
+> `🔥` - Hard
+>
+> `🌀` - Easy
+>
+> `🎯` - Medium
+
+* `0001`
+  * [LeetCode - Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum) - `🌀` - `Java`
+* `0002`
+  * [LeetCode - Add Two Numbers](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/AddTwoNumbers) - `🌀` - `Java`
+* `0003`
+  * [LeetCode - Longest Substring Without Repeating Characters](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestSubstringWithoutRepeatingCharacters) - `🌀` - `Kotlin`
+* `0004`
+  * [LeetCode - Valid Parentheses](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/ValidParentheses) - `🌀` - `Kotlin`
 
 I'm a beginner and this is my plan to improve my problem-solving skills. So each day, I try to solve a problem in an hour or less. If it takes more than that, I just commit all I've done until that point. You can follow along or you can find the codes based on their provider.
 
