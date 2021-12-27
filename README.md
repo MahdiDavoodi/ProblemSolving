@@ -28,6 +28,8 @@ If you want to focus on learning a specific **programming language**, I recommen
   * `🌀` - [LeetCode - Longest Substring Without Repeating Characters](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestSubstringWithoutRepeatingCharacters) - `Kotlin`
 * `0004`
   * `🌀` - [LeetCode - Valid Parentheses](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/ValidParentheses) - `Kotlin`
+* `0005`
+  * `🌀` - [LeetCode - Palindrome Number](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/PalindromeNumber) - `Kotlin`
 
 I'm a beginner and this is my plan to improve my problem-solving skills. So each day, I try to solve a problem in an hour or less. If it takes more than that, I just commit all I've done until that point. You can follow along or you can find the codes based on their provider.
 
