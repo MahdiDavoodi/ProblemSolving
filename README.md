@@ -24,9 +24,9 @@ I'm a beginner and this is my plan to improve my problem-solving skills. So each
 
 I don't check recommended solutions from the website until I figure out the solution by myself. At first, you should solve the problem in any way that you can think of. Then you have to think about the ways to optimize your solution. If you can't go further, then check the recommended Solutions or other people's solutions for the problem. You can learn better in this way.
 
-![leetcode](media/pic02.png)
-
 ### LeetCode
+
+![leetcode](media/pic02.png)
 
 * `0001`
   * `🌀` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum) - `Java`
@@ -39,11 +39,11 @@ I don't check recommended solutions from the website until I figure out the solu
 * `0005`
   * `🌀` - [Palindrome Number](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/PalindromeNumber) - `Kotlin`
 
-![coderbyte](media/pic03.png)
-
 ## CoderByte
 
+![coderbyte](media/pic03.png)
+
 * `001`
-  * `🌀` - [First Reverse]() - `Kotlin`
+  * `🌀` - [First Reverse](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/CoderByte/FirstReverse) - `Kotlin`
 
 > Since December 2021.
