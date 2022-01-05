@@ -6,9 +6,9 @@ This repository is not Language-based. You can find practices dedicated to each 
 
 Some of my resources are:
 
-- [CoderByte.com](#coderbyte)
-- [HackerRank.com](#hackerrank)
-- [LeetCode.com](#leetcode)
+-   [CoderByte.com](#coderbyte)
+-   [HackerRank.com](#hackerrank)
+-   [LeetCode.com](#leetcode)
 
 If you want to focus on learning a specific **programming language**, I recommend [Exercism](https://exercism.org/tracks).
 
@@ -24,40 +24,26 @@ I'm a beginner and this is my plan to improve my problem-solving skills. So each
 
 I don't check recommended solutions from the website until I figure out the solution by myself. At first, you should solve the problem in any way that you can think of. Then you have to think about the ways to optimize your solution. If you can't go further, then check the recommended Solutions or other people's solutions for the problem. You can learn better in this way.
 
+### HackerRank
+
+-   `0001 - 🌀` -  `Java` - [Number Line Jumps](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/NumberLineJumps)
+
 ### LeetCode
 
-![leetcode](media/pic02.png)
+-   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
 
-- `0001`
+-   `0002 - 🌀` - `Java` - [Add Two Numbers](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/AddTwoNumbers)
 
-  - `🌀` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum) - `Java`
+-   `0003 - 🌀` - `Kotlin` - [Longest Substring Without Repeating Characters](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestSubstringWithoutRepeatingCharacters)
 
-- `0002`
+-   `0004 - 🌀` - `Kotlin` - [Valid Parentheses](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/ValidParentheses)
 
-  - `🌀` - [Add Two Numbers](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/AddTwoNumbers) - `Java`
-
-- `0003`
-
-  - `🌀` - [Longest Substring Without Repeating Characters](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestSubstringWithoutRepeatingCharacters) - `Kotlin`
-
-- `0004`
-
-  - `🌀` - [Valid Parentheses](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/ValidParentheses) - `Kotlin`
-
-- `0005`
-
-  - `🌀` - [Palindrome Number](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/PalindromeNumber) - `Kotlin`
+-   `0005 - 🌀` - `Kotlin` - [Palindrome Number](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/PalindromeNumber)
 
 ## CoderByte
 
-![coderbyte](media/pic03.png)
+-   `001 - 🌀` - `Kotlin` - [First Reverse](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/CoderByte/FirstReverse)
 
-- `001`
-
-  - `🌀` - [First Reverse](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/CoderByte/FirstReverse) - `Kotlin`
-
-- `002`
-
-  - `🌀` - [First Factorial](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/CoderByte/FirstFactorial) - `Kotlin`
+-   `002 - 🌀` - `Kotlin` - [First Factorial](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/CoderByte/FirstFactorial)
 
 > Since December 2021.
