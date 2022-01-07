@@ -28,6 +28,7 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0001 - 🌀` -  `Java` - [Number Line Jumps](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/NumberLineJumps)
 -   `0002 - 🌀` -  `Java` - [Drawing Book](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DrawingBook)
+-   `0003 - 🌀` -  `Kotlin` - [Breaking The Records](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/BreakingTheRecords)
 
 ### LeetCode
 
