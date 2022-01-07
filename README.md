@@ -17,9 +17,9 @@ If you want to focus on learning a specific **programming language**, I recommen
 I'm a beginner and this is my plan to improve my problem-solving skills. So each day, I try to solve a problem in an hour or less. If it takes more than that, I just commit all I've done until that point. You can follow along or you can find the codes based on their provider and level.
 
 > `🌀` - Easy
-
+>
 > `🎯` - Medium
-
+>
 > `🔥` - Hard
 
 I don't check recommended solutions from the website until I figure out the solution by myself. At first, you should solve the problem in any way that you can think of. Then you have to think about the ways to optimize your solution. If you can't go further, then check the recommended Solutions or other people's solutions for the problem. You can learn better in this way.
@@ -27,8 +27,12 @@ I don't check recommended solutions from the website until I figure out the solu
 ### HackerRank
 
 -   `0001 - 🌀` -  `Java` - [Number Line Jumps](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/NumberLineJumps)
+
 -   `0002 - 🌀` -  `Java` - [Drawing Book](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DrawingBook)
+
 -   `0003 - 🌀` -  `Kotlin` - [Breaking The Records](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/BreakingTheRecords)
+
+-   `0004 - 🌀` -  `Kotlin` - [Cats And Mouse](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/CatsAndMouse)
 
 ### LeetCode
 
@@ -41,6 +45,8 @@ I don't check recommended solutions from the website until I figure out the solu
 -   `0004 - 🌀` - `Kotlin` - [Valid Parentheses](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/ValidParentheses)
 
 -   `0005 - 🌀` - `Kotlin` - [Palindrome Number](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/PalindromeNumber)
+
+-   `0006 - 🌀` - `Kotlin` - [Longest Common Prefix](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestCommonPrefix)
 
 ## CoderByte
 
