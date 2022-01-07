@@ -27,6 +27,7 @@ I don't check recommended solutions from the website until I figure out the solu
 ### HackerRank
 
 -   `0001 - 🌀` -  `Java` - [Number Line Jumps](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/NumberLineJumps)
+-   `0002 - 🌀` -  `Java` - [Drawing Book](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DrawingBook)
 
 ### LeetCode
 
