@@ -34,6 +34,8 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0004 - 🌀` -  `Kotlin` - [Cats And Mouse](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/CatsAndMouse)
 
+-   `0005 - 🌀` -  `Java` - [The Hurdle Race](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/TheHurdleRace)
+
 ### LeetCode
 
 -   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
