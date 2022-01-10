@@ -38,6 +38,8 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0006 - 🌀` -  `Kotlin` - [Find The Point](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/FindThePoint)
 
+-   `0007 - 🌀` -  `Kotlin` - [Diagonal Difference](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DiagonalDifference)
+
 ### LeetCode
 
 -   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
