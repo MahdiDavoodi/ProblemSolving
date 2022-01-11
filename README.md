@@ -40,6 +40,8 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0007 - 🌀` -  `Kotlin` - [Diagonal Difference](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DiagonalDifference)
 
+-   `0008 - 🌀` -  `Java` - [Migratory Birds](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/MigratoryBirds)
+
 ### LeetCode
 
 -   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
