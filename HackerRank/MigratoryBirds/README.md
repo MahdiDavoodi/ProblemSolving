@@ -13,6 +13,7 @@
 The best answer is the one that is currently available in this directory. You can also see some of my previous iterations and attempts to solve this problem.
 
 ### Iteration 1 - My first attempt
+> Java
 
 ```java
 class Solution {
@@ -38,3 +39,21 @@ class Solution {
 }
 ```
 Scan the whole input, parse it into an array of integers, and store it into a variable. Get a set copy of the array (To remove the same values). Then create a `for` loop that gets a frequency of each element in your set, **on** the array.
+
+### Iteration 2 - Hello, Python!
+> Python
+
+```python
+def migratoryBirds(arr):
+    myset = set(arr)
+    mymax = 0
+    number = 0
+    for i in myset:
+        a = arr.count(i)
+        if (mymax < a):
+            mymax = a
+            number = i
+    return number
+```
+
+Same logic, in python.
