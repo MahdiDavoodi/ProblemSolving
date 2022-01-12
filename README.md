@@ -56,6 +56,9 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0006 - 🌀` - `Kotlin` - [Longest Common Prefix](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/LongestCommonPrefix)
 
+-   `0007 - 🌀` - `Kotlin, Java, Python` - [Merge Sorted Array](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/MergeSortedArray)
+
+
 ## CoderByte
 
 -   `001 - 🌀` - `Kotlin` - [First Reverse](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/CoderByte/FirstReverse)
