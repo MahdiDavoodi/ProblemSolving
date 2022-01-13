@@ -42,6 +42,9 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0008 - 🌀` -  `Java, Python` - [Migratory Birds](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/MigratoryBirds)
 
+-   `0009 - 🌀` -  `Java` - [Subarray Division](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/SubarrayDivision)
+
+
 ### LeetCode
 
 -   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
