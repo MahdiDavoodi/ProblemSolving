@@ -44,6 +44,8 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0009 - 🌀` -  `Java` - [Subarray Division](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/SubarrayDivision)
 
+-   `0010 - 🌀` -  `Java` - [Climbing The Leaderboard](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/ClimbingTheLeaderboard)
+
 
 ### LeetCode
 
