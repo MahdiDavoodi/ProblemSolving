@@ -30,7 +30,8 @@ public static List<Integer> climbingLeaderboard(List<Integer> ranked, List<Integ
     return results;
 }
 ```
+> Java
 
-Create a list named `results`. Iterate through the `player`. Add each record the `ranked` list and sort it. Find the indexOf the record that you added, and add it to the `results` list. Return the `results`.
+Create a list named `results`. Iterate through the `player`. Add each record to the `ranked` list and sort it. Find the index of the record that you added, and add it to the `results` list. Return the `results`.
 
 **Note**: This solution failed at 4 test cases (Terminated due to timeout). It needs improvements.
