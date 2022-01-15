@@ -46,6 +46,7 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0010 - 🌀` -  `Java` - [Climbing The Leaderboard](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/ClimbingTheLeaderboard)*
 
+-   `0011 - 🌀` -  `Java` - [Angry Professor](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/AngryProfessor)
 
 ### LeetCode
 
