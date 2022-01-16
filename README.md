@@ -48,6 +48,8 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0011 - 🌀` -  `Java` - [Angry Professor](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/AngryProfessor)
 
+-   `0012 - 🌀` -  `Kotlin` - [Divisible Sum Pairs](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DivisibleSumPairs)
+
 ### LeetCode
 
 -   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
