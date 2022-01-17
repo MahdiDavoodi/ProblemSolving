@@ -50,7 +50,7 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0012 - 🌀` -  `Kotlin` - [Divisible Sum Pairs](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DivisibleSumPairs)
 
--   `0013 - 🌀` -  `Kotlin` - [Designer PDF Viewer](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DesignerPDFViewer)
+-   `0013 - 🌀` -  `Kotlin` - [Designer PDF Viewer](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DesignerPdfViewer)
 
 ### LeetCode
 
