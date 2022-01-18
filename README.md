@@ -52,6 +52,8 @@ I don't check recommended solutions from the website until I figure out the solu
 
 -   `0013 - 🌀` -  `Kotlin` - [Designer PDF Viewer](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/DesignerPdfViewer)
 
+-   `0014 - 🌀` -  `Kotlin` - [Save The Prisoner](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/HackerRank/SaveThePrisoner)
+
 ### LeetCode
 
 -   `0001 - 🌀` -  `Java` - [Two Sum](https://github.com/MahdiDavoodi/ProblemSolving/tree/main/LeetCode/TwoSum)
