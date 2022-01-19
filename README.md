@@ -51,7 +51,7 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0021` | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | [Python](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MergeSortedArray/Solution.py) | `🌀` |
 | `0022` | [First Reverse](https://coderbyte.com/information/First%20Reverse) | CoderByte | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstReverse/Solution.kt) | `🌀` |
 | `0023` | [First Factorial](https://coderbyte.com/editor/First%20Factorial:Kotlin) | CoderByte | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstFactorial/Solution.kt) | `🌀` |
-| `0024` | []() | LeetCode | []() | `🌀` |
+| `0024` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MaximumSubarray/Solution.kt) | `🌀` |
 
 
 > Since December 2021.
