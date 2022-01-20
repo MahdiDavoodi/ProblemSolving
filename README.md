@@ -6,9 +6,9 @@ This repository is not Language-based. You can find practices dedicated to each 
 
 Some of my resources are:
 
--   [CoderByte.com](#coderbyte)
--   [HackerRank.com](#hackerrank)
--   [LeetCode.com](#leetcode)
+- [CoderByte.com](#coderbyte)
+- [HackerRank.com](#hackerrank)
+- [LeetCode.com](#leetcode)
 
 If you want to focus on learning a specific **programming language**, I recommend [Exercism](https://exercism.org/tracks).
 
@@ -26,32 +26,32 @@ I don't check recommended solutions from the website until I figure out the solu
 
 ### Table
 
-| # | Title | Provider | Solution | Difficulty |
-| ------ | -------- | ------ | ------ | ------ |
-| `0001` | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/NumberLineJumps/Solution.java) | `🌀` |
-| `0002` | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DrawingBook/Solution.java) | `🌀` |
-| `0003` | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/BreakingTheRecords/Solution.kt) | `🌀` |
-| `0004` | [Cats And Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/CatsAndMouse/Solution.kt) | `🌀` |
-| `0005` | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/TheHurdleRace/Solution.java) | `🌀` |
-| `0006` | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/FindThePoint/Solution.kt) | `🌀` |
-| `0007` | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DiagonalDifference/Solution.kt) | `🌀` |
-| `0008` | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | HackerRank | [Python](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/MigratoryBirds/Solution.py) | `🌀` |
-| `0009` | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/SubarrayDivision/Solution.java) | `🌀` |
-| `0010` | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true) | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/ClimbingTheLeaderboard/Solution.java) | `🌀` |
-| `0011` | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/AngryProfessor/Solution.java) | `🌀` |
-| `0012` | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DivisibleSumPairs/Solution.kt) | `🌀` |
-| `0013` | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DesignerPdfViewer/Solution.kt) | `🌀` |
-| `0014` | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/SaveThePrisoner/Solution.kt) | `🌀` |
-| `0015` | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/TwoSum/Solution.java) | `🌀` |
-| `0016` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/AddTwoNumbers/Solution.java) | `🌀` |
-| `0017` | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/LongestSubstringWithoutRepeatingCharacters/Solution.kt) | `🌀` |
-| `0018` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/ValidParentheses/Solution.kt) | `🌀` |
-| `0019` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/PalindromeNumber/Solution.kt) | `🌀` |
-| `0020` | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | LeetCode | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/LongestCommonPrefix/Solution.kt) | `🌀` |
-| `0021` | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | [Python](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MergeSortedArray/Solution.py) | `🌀` |
-| `0022` | [First Reverse](https://coderbyte.com/information/First%20Reverse) | CoderByte | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstReverse/Solution.kt) | `🌀` |
-| `0023` | [First Factorial](https://coderbyte.com/editor/First%20Factorial:Kotlin) | CoderByte | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstFactorial/Solution.kt) | `🌀` |
-| `0024` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MaximumSubarray/Solution.kt) | `🌀` |
-
+| #      | Title                                                                                                                           | Provider   | Solution                                                                                                                           | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| `0001` | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)                                                     | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/NumberLineJumps/Solution.java)                          | `🌀`       |
+| `0002` | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                                      | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DrawingBook/Solution.java)                              | `🌀`       |
+| `0003` | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)         | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/BreakingTheRecords/Solution.kt)                       | `🌀`       |
+| `0004` | [Cats And Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                              | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/CatsAndMouse/Solution.kt)                             | `🌀`       |
+| `0005` | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                              | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/TheHurdleRace/Solution.java)                            | `🌀`       |
+| `0006` | [Find The Point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true)                                    | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/FindThePoint/Solution.kt)                             | `🌀`       |
+| `0007` | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)                                        | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DiagonalDifference/Solution.kt)                       | `🌀`       |
+| `0008` | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                              | HackerRank | [Python](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/MigratoryBirds/Solution.py)                           | `🌀`       |
+| `0009` | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                           | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/SubarrayDivision/Solution.java)                         | `🌀`       |
+| `0010` | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)            | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/ClimbingTheLeaderboard/Solution.java)                   | `🌀`       |
+| `0011` | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                              | HackerRank | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/AngryProfessor/Solution.java)                           | `🌀`       |
+| `0012` | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                      | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DivisibleSumPairs/Solution.kt)                        | `🌀`       |
+| `0013` | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                      | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/DesignerPdfViewer/Solution.kt)                        | `🌀`       |
+| `0014` | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                          | HackerRank | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/HackerRank/SaveThePrisoner/Solution.kt)                          | `🌀`       |
+| `0015` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | LeetCode   | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/TwoSum/Solution.java)                                     | `🌀`       |
+| `0016` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | LeetCode   | [Java](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/AddTwoNumbers/Solution.java)                              | `🌀`       |
+| `0017` | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/LongestSubstringWithoutRepeatingCharacters/Solution.kt) | `🌀`       |
+| `0018` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/ValidParentheses/Solution.kt)                           | `🌀`       |
+| `0019` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/PalindromeNumber/Solution.kt)                           | `🌀`       |
+| `0020` | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/LongestCommonPrefix/Solution.kt)                        | `🌀`       |
+| `0021` | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | LeetCode   | [Python](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MergeSortedArray/Solution.py)                           | `🌀`       |
+| `0022` | [First Reverse](https://coderbyte.com/information/First%20Reverse)                                                              | CoderByte  | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstReverse/Solution.kt)                              | `🌀`       |
+| `0023` | [First Factorial](https://coderbyte.com/editor/First%20Factorial:Kotlin)                                                        | CoderByte  | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstFactorial/Solution.kt)                            | `🌀`       |
+| `0024` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MaximumSubarray/Solution.kt)                            | `🌀`       |
+| `0025` | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                         | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/TimeNeededToBuyTickets/Solution.kt)                     | `🌀`       |
 
 > Since December 2021.
