@@ -53,5 +53,6 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0023` | [First Factorial](https://coderbyte.com/editor/First%20Factorial:Kotlin)                                                        | CoderByte  | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/CoderByte/FirstFactorial/Solution.kt)                            | `🌀`       |
 | `0024` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MaximumSubarray/Solution.kt)                            | `🌀`       |
 | `0025` | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                         | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/TimeNeededToBuyTickets/Solution.kt)                     | `🌀`       |
+| `0026` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/BestTimeToBuyAndSellStock/Solution.kt)                  | `🌀`       |
 
 > Since December 2021.
