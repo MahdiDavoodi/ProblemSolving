@@ -54,5 +54,6 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0024` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/MaximumSubarray/Solution.kt)                            | `🌀`       |
 | `0025` | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                         | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/TimeNeededToBuyTickets/Solution.kt)                     | `🌀`       |
 | `0026` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/BestTimeToBuyAndSellStock/Solution.kt)                  | `🌀`       |
+| `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                               | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/RemoveElement/Solution.kt)                  | `🌀`       |
 
 > Since December 2021.
