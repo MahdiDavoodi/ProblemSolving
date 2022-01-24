@@ -6,9 +6,9 @@ This repository is not Language-based. You can find practices dedicated to each 
 
 Some of my resources are:
 
-- [CoderByte.com](#coderbyte)
-- [HackerRank.com](#hackerrank)
-- [LeetCode.com](#leetcode)
+- CoderByte.com
+- HackerRank.com
+- LeetCode.com
 
 If you want to focus on learning a specific **programming language**, I recommend [Exercism](https://exercism.org/tracks).
 
@@ -56,5 +56,6 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0026` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/BestTimeToBuyAndSellStock/Solution.kt)                  | `🌀`       |
 | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 | LeetCode   | [Kotlin](https://github.com/MahdiDavoodi/ProblemSolving/blob/main/LeetCode/RemoveElement/Solution.kt)                              | `🌀`       |
 | `0028` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | LeetCode   | [Kotlin](LeetCode/RemoveDuplicatesFromSortedArray/Iteration2.kt)                                                                   | `🌀`       |
+| `0029` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | LeetCode   | [Kotlin](LeetCode/MergeTwoSortedLists/Iteration1.kt)                                                                               | `🌀`       |
 
 > Since December 2021.
