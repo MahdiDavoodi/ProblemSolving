@@ -58,5 +58,6 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0028` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | LeetCode   | [Kotlin](LeetCode/RemoveDuplicatesFromSortedArray/Iteration2.kt)                                                                   | `🌀`       |
 | `0029` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | LeetCode   | [Kotlin](LeetCode/MergeTwoSortedLists/Iteration1.kt)                                                                               | `🌀`       |
 | `0030` | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                     | LeetCode   | [Kotlin](LeetCode/ThirdMaximumNumber/Iteration2.kt)                                                                                | `🌀`       |
+| `0031` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | LeetCode   | [Kotlin](LeetCode/ClimbingStairs/Iteration2.kt)                                                                                    | `🌀`       |
 
 > Since December 2021.
