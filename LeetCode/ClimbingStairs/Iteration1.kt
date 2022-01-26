@@ -13,4 +13,7 @@ class Solution {
         return array[n - 2] + array[n - 1]
     }
 }
-// Bruh!
+/**
+ * Just like Fibonacci numbers, there is a pattern for this problem.
+ * Using dynamic programming, I made it work in a better and faster way than it normally does.
+ */
