@@ -62,5 +62,6 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0032` | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)                                | HackerRank | [Kotlin](HackerRank/HalloweenSale/Iteration1.kt)                                                                                   | `🌀`       |
 | `0033` | [Implement StrStr](https://leetcode.com/problems/implement-strstr/)                                                             | LeetCode   | [Kotlin](LeetCode/ImplementStrStr/Iteration1.kt)                                                                                   | `🌀`       |
 | `0034` | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | LeetCode   | [Kotlin](LeetCode/PlusOne/Iteration1.kt)                                                                                           | `🌀`       |
+| `0035` | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                     | LeetCode   | [Kotlin](LeetCode/WordPattern/Iteration1.kt)                                                                                       | `🌀`       |
 
 > Since December 2021.
