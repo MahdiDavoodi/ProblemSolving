@@ -2,27 +2,9 @@
 
 ![Header](media/pic01.jpg)
 
-This repository is not Language-based. You can find practices dedicated to each language on my profile. But here, it's all about problem-solving. The ways to solve each problem. I'll try my best to come back and improve my answers.
-
-Some of my resources are:
-
-- CoderByte.com
-- HackerRank.com
-- LeetCode.com
-
-If you want to focus on learning a specific **programming language**, I recommend [Exercism](https://exercism.org/tracks).
-
 ## **Daily Update**
 
-I'm a beginner and this is my plan to improve my problem-solving skills. So each day, I try to solve a problem in an hour or less. If it takes more than that, I just commit all I've done until that point. You can follow along or you can find the codes based on their provider and level.
-
-> `🌀` - Easy
->
-> `🎯` - Medium
->
-> `🔥` - Hard
-
-I don't check recommended solutions from the website until I figure out the solution by myself. At first, you should solve the problem in any way that you can think of. Then you have to think about the ways to optimize your solution. If you can't go further, then check the recommended Solutions or other people's solutions for the problem. You can learn better in this way.
+The first iterations are my first attempts. I implement other iterations after I learned the best way from other people or just YouTube videos.
 
 ### Table
 
@@ -63,6 +45,6 @@ I don't check recommended solutions from the website until I figure out the solu
 | `0033` | [Implement StrStr](https://leetcode.com/problems/implement-strstr/)                                                             | LeetCode   | [Kotlin](LeetCode/ImplementStrStr/Iteration1.kt)                                                                                   | `🌀`       |
 | `0034` | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | LeetCode   | [Kotlin](LeetCode/PlusOne/Iteration1.kt)                                                                                           | `🌀`       |
 | `0035` | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                     | LeetCode   | [Kotlin](LeetCode/WordPattern/Iteration1.kt)                                                                                       | `🌀`       |
-| `0036` | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | LeetCode   | [Kotlin](LeetCode/SingleNumber/Iteration1.kt)                                                                                      | `🌀`       |
+| `0036` | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | LeetCode   | [Kotlin](LeetCode/SingleNumber/Iteration2.kt)                                                                                      | `🌀`       |
 
 > Since December 2021.
