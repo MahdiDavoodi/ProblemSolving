@@ -46,5 +46,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0034` | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | LeetCode   | [Kotlin](LeetCode/PlusOne/Iteration1.kt)                                                                                           | `🌀`       |
 | `0035` | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                     | LeetCode   | [Kotlin](LeetCode/WordPattern/Iteration1.kt)                                                                                       | `🌀`       |
 | `0036` | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | LeetCode   | [Kotlin](LeetCode/SingleNumber/Iteration2.kt)                                                                                      | `🌀`       |
+| `0037` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                       | LeetCode   | [Kotlin](LeetCode/UglyNumber/Iteration1.kt)                                                                                        | `🌀`       |
 
 > Since December 2021.
