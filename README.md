@@ -50,5 +50,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0038` | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | LeetCode   | [Kotlin](LeetCode/ProductOfArrayExceptSelf/Iteration2.kt)                                                                          | `🎯`       |
 | `0039` | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)                  | HackerRank | [Kotlin](HackerRank/ExtraLongFactorials/Iteration1.kt)                                                                             | `🌀`       |
 | `0040` | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | LeetCode   | [Kotlin](LeetCode/LargestSubstringBetweenTwoEqualCharacters/Iteration1.kt)                                                         | `🌀`       |
+| `0041` | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | LeetCode   | [Kotlin](LeetCode/ReverseInteger/Iteration2.kt)                                                                                    | `🎯`       |
 
 > Since December 2021.
