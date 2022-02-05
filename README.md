@@ -53,5 +53,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0041` | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | LeetCode   | [Kotlin](LeetCode/ReverseInteger/Iteration2.kt)                                                                                    | `🎯`       |
 | `0042` | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | LeetCode   | [Kotlin](LeetCode/MedianOfTwoSortedArrays/Iteration1.kt)                                                                           | `--`       |
 | `0043` | [Reformat the String](https://leetcode.com/problems/reformat-the-string/)                                                       | LeetCode   | [Kotlin](LeetCode/ReformatTheString/Iteration1.kt)                                                                                 | `🌀`       |
+| `0044` | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                                                     | LeetCode   | [Kotlin](LeetCode/DivisorGame/Iteration1.kt)                                                                                       | `🌀`       |
 
 > Since December 2021.
