@@ -55,5 +55,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0043` | [Reformat the String](https://leetcode.com/problems/reformat-the-string/)                                                       | LeetCode   | [Kotlin](LeetCode/ReformatTheString/Iteration1.kt)                                                                                 | `🌀`       |
 | `0044` | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                                                     | LeetCode   | [Kotlin](LeetCode/DivisorGame/Iteration1.kt)                                                                                       | `🌀`       |
 | `0045` | [Pow](https://leetcode.com/problems/powx-n/submissions/)                                                                        | LeetCode   | [Kotlin](LeetCode/Pow/Iteration1.kt)                                                                                               | `--`       |
+| `0046` | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)                 | LeetCode   | [Kotlin](LeetCode/CountOddNumbersInAnIntervalRange/Iteration1.kt)                                                                  | `🌀`       |
 
 > Since December 2021.
