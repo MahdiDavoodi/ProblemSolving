@@ -59,5 +59,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0047` | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=false)                      | HackerRank | [Kotlin](HackerRank/EqualizeTheArray/Iteration1.kt)                                                                                | `🌀`       |
 | `0048` | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                        | HackerRank | [Kotlin](HackerRank/ViralAdvertising/Iteration1.kt)                                                                                | `🌀`       |
 | `0049` | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)              | HackerRank | [Kotlin](HackerRank/CircularArrayRotation/Iteration1.kt)                                                                           | `🌀`       |
+| `0050` | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                      | HackerRank | [Kotlin](HackerRank/FindDigits/Iteration1.kt)                                                                                      | `🌀`       |
 
 > Since December 2021.
