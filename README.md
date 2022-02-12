@@ -61,5 +61,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0049` | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)              | HackerRank | [Kotlin](HackerRank/CircularArrayRotation/Iteration1.kt)                                                                           | `🌀`       |
 | `0050` | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                      | HackerRank | [Kotlin](HackerRank/FindDigits/Iteration1.kt)                                                                                      | `🌀`       |
 | `0051` | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                              | HackerRank | [Kotlin](HackerRank/RepeatedString/Iteration1.kt)                                                                                  | `🌀`       |
+| `0052` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | LeetCode   | [Kotlin](LeetCode/ValidPalindrome/Iteration1.kt)                                                                                   | `🌀`       |
 
 > Since December 2021.
