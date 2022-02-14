@@ -63,5 +63,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0051` | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                              | HackerRank | [Kotlin](HackerRank/RepeatedString/Iteration1.kt)                                                                                  | `🌀`       |
 | `0052` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | LeetCode   | [Kotlin](LeetCode/ValidPalindrome/Iteration1.kt)                                                                                   | `🌀`       |
 | `0053` | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem?isFullScreen=false)                               | HackerRank | [Kotlin](HackerRank/CaesarCipher/Iteration1.kt)                                                                                    | `🌀`       |
+| `0054` | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                           | LeetCode   | [Kotlin](LeetCode/FlippingAnImage/Iteration1.kt)                                                                                   | `🌀`       |
 
 > Since December 2021.
