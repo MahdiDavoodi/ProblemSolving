@@ -68,5 +68,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0056` | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)                                         | LeetCode   | [Kotlin](LeetCode/ShortestDistanceToACharacter/Iteration1.kt)                                                                      | `🌀`       |
 | `0057` | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)           | LeetCode   | [Kotlin](LeetCode/CheckWhetherTwoStringsAreAlmostEquivalent/Iteration1.kt)                                                         | `🌀`       |
 | `0058` | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | LeetCode   | [Kotlin](LeetCode/ReplaceElementsWithGreatestElementOnRightSide/Iteration1.kt)                                                     | `🌀`       |
+| `0059` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                       | LeetCode   | [Kotlin](LeetCode/CountNegativeNumbersInASortedMatrix/Iteration1.kt)                                                               | `🌀`       |
 
 > Since December 2021.
