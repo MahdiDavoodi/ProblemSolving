@@ -71,5 +71,6 @@ The first iterations are my first attempts. I implement other iterations after I
 | `0059` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                       | LeetCode   | [Kotlin](LeetCode/CountNegativeNumbersInASortedMatrix/Iteration1.kt)                                                               | `🌀`       |
 | `0060` | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)                                                        | HackerRank | [Kotlin](HackerRank/AppendAndDelete/Iteration1.kt)                                                                                 | `--`       |
 | `0061` | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=false)                                                       | HackerRank | [Kotlin](HackerRank/Pangrams/Iteration1.kt)                                                                                        | `🌀`       |
+| `0062` | [HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=false)                           | HackerRank | [Kotlin](HackerRank/HackerRankInAString/Iteration1.kt)                                                                             | `🌀`       |
 
 > Since December 2021.
