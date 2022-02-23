@@ -4,11 +4,11 @@
 
 Hey, there. This is a **personal** repository for practicing programming fundamentals. It's public because I wanted to have access to it, whenever I want, wherever I want.
 
-> Total solved: 62
-> Most used language: Kotlin
-> Started from: December 2021
-> Daily average: 2
-> Average level: Easy
+> - Total solved: 62
+> - Most used language: Kotlin
+> - Started from: December 2021
+> - Daily average: 2
+> - Average level: Easy
 
 ## Content
 
