@@ -17,3 +17,4 @@ The main resource is [Excersim](https://exercism.org).
 | #    | Name                                                                        | Difficulty | Last Iteration                                             |
 | ---- | --------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------- |
 | `01` | [Resistor Color](https://exercism.org/tracks/java/exercises/resistor-color) | Easy       | [Iteration 1](Exercism/Java/ResistorColor/Iteration1.java) |
+| `02` | [Reverse String](https://exercism.org/tracks/java/exercises/reverse-string) | Easy       | [Iteration 1](Exercism/Java/ReverseString/Iteration1.java) |
