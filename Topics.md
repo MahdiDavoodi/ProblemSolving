@@ -8,6 +8,7 @@ These problems are medium to advanced. They are categorized by topic.
 
 ### String
 
-| Num | Name                                                                   | Difficulty | Last Iteration With                           |
-| --- | ---------------------------------------------------------------------- | ---------- | --------------------------------------------- |
-| 1   | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | Medium     | [Kotlin](HackerRank/Encryption/Iteration1.kt) |
+| Num | Name                                                                                 | Difficulty | Last Iteration With                            |
+| --- | ------------------------------------------------------------------------------------ | ---------- | ---------------------------------------------- |
+| 1   | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)               | Medium     | [Kotlin](HackerRank/Encryption/Iteration1.kt)  |
+| 2   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | Medium     | [🔴](HackerRank/BiggerIsGreater/Iteration1.kt) |
