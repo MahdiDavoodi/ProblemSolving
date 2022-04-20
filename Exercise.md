@@ -18,3 +18,9 @@ The main resource is [Excersim](https://exercism.org).
 | ---- | --------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------- |
 | `01` | [Resistor Color](https://exercism.org/tracks/java/exercises/resistor-color) | Easy       | [Iteration 1](Exercism/Java/ResistorColor/Iteration1.java) |
 | `02` | [Reverse String](https://exercism.org/tracks/java/exercises/reverse-string) | Easy       | [Iteration 1](Exercism/Java/ReverseString/Iteration1.java) |
+
+## JavaScript
+
+| #    | Name                                                                                            | Difficulty | Last Iteration                                                        |
+| ---- | ----------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
+| `01` | [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true) | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/HelloWorld/Iteration1.js) |
