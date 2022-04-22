@@ -26,3 +26,4 @@ The main resource is [Excersim](https://exercism.org).
 | `01` | [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true)                           | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/HelloWorld/Iteration1.js)          |
 | `02` | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem?h_r=next-challenge&h_v=zen&isFullScreen=false) | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/DataTypes/Iteration1.js)           |
 | `04` | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem?isFullScreen=true)         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/ArithmeticOperators/Iteration1.js) |
+| `05` | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)            | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Loops/Iteration1.js)               |
