@@ -21,7 +21,8 @@ The main resource is [Excersim](https://exercism.org).
 
 ## JavaScript
 
-| #    | Name                                                                                                                      | Difficulty | Last Iteration                                                        |
-| ---- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
-| `01` | [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true)                           | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/HelloWorld/Iteration1.js) |
-| `02` | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem?h_r=next-challenge&h_v=zen&isFullScreen=false) | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/DataTypes/Iteration1.js)  |
+| #    | Name                                                                                                                      | Difficulty | Last Iteration                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------ |
+| `01` | [Hello World](https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true)                           | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/HelloWorld/Iteration1.js)          |
+| `02` | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem?h_r=next-challenge&h_v=zen&isFullScreen=false) | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/DataTypes/Iteration1.js)           |
+| `04` | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem?isFullScreen=true)         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/ArithmeticOperators/Iteration1.js) |
