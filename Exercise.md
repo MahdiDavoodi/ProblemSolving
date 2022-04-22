@@ -28,3 +28,4 @@ The main resource is [Excersim](https://exercism.org).
 | `03` | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem?isFullScreen=true)         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/ArithmeticOperators/Iteration1.js) |
 | `04` | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?isFullScreen=true)                                       | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Loops/Iteration1.js)               |
 | `05` | [Functions](https://www.hackerrank.com/challenges/js10-function/problem?isFullScreen=true)                                | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Functions/Iteration1.js)           |
+| `06` | [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem?isFullScreen=true)                       | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/LetAndConst/Iteration1.js)         |
