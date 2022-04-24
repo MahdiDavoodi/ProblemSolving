@@ -32,3 +32,4 @@ The main resource is [Excersim](https://exercism.org).
 | `07` | [IfElse](https://www.hackerrank.com/challenges/js10-if-else/problem?isFullScreen=true)                                    | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/IfElse/Iteration1.js)              |
 | `08` | [Switch](https://www.hackerrank.com/challenges/js10-switch/problem?isFullScreen=true)                                     | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Switch/Iteration1.js)              |
 | `09` | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem?isFullScreen=true)                                     | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Arrays/Iteration1.js)              |
+| `10` | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?isFullScreen=false)    | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/TCF/Iteration1.js)                 |
