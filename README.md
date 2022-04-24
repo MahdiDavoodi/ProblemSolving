@@ -4,7 +4,7 @@
 
 Hey, there. This is a **personal** repository for practicing programming fundamentals. It's public because I wanted to have access to it, whenever I want, wherever I want.
 
-> - Total solved: 94
+> - Total solved: 95
 > - Started from: December 2021
 > - Average level: Easy
 
