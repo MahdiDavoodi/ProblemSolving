@@ -36,3 +36,4 @@ The main resource is [Excersim](https://exercism.org).
 | `11` | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem?isFullScreen=false)                                      | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Throw/Iteration1.js)               |
 | `12` | [Objects](https://www.hackerrank.com/challenges/js10-objects/problem?isFullScreen=false)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Objects/Iteration1.js)             |
 | `13` | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)                                         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/CountObjects/Iteration1.js)        |
+| `14` | [Classes](https://www.hackerrank.com/challenges/js10-class/problem)                                                       | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Classes/Iteration1.js)             |
