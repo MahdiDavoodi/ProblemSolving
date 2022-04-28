@@ -35,3 +35,4 @@ The main resource is [Excersim](https://exercism.org).
 | `10` | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?isFullScreen=false)    | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/TCF/Iteration1.js)                 |
 | `11` | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem?isFullScreen=false)                                      | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Throw/Iteration1.js)               |
 | `12` | [Objects](https://www.hackerrank.com/challenges/js10-objects/problem?isFullScreen=false)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Objects/Iteration1.js)             |
+| `13` | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)                                         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/CountObjects/Iteration1.js)        |
