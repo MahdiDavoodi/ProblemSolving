@@ -37,3 +37,4 @@ The main resource is [Excersim](https://exercism.org).
 | `12` | [Objects](https://www.hackerrank.com/challenges/js10-objects/problem?isFullScreen=false)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Objects/Iteration1.js)             |
 | `13` | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)                                         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/CountObjects/Iteration1.js)        |
 | `14` | [Classes](https://www.hackerrank.com/challenges/js10-class/problem)                                                       | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Classes/Iteration1.js)             |
+| `15` | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)                                             | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Inheritance/Iteration1.js)         |
