@@ -40,3 +40,4 @@ The main resource is [Excersim](https://exercism.org).
 | `15` | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)                                             | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Inheritance/Iteration1.js)         |
 | `16` | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)                                 | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/TemplateLiterals/Iteration1.js)    |
 | `17` | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)                                              | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/ArrowFunctions/Iteration1.js)      |
+| `18` | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)                                           | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/BitwiseOperators/Iteration1.js)    |
