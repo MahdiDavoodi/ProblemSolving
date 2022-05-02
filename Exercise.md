@@ -42,3 +42,4 @@ The main resource is [Excersim](https://exercism.org).
 | `17` | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)                                              | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/ArrowFunctions/Iteration1.js)      |
 | `18` | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)                                           | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/BitwiseOperators/Iteration1.js)    |
 | `19` | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)                                               | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/JavaScriptDates/Iteration1.js)     |
+| `20` | [Regex 1](https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex1/Iteration1.js)              |
