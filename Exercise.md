@@ -44,3 +44,4 @@ The main resource is [Excersim](https://exercism.org).
 | `19` | [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)                                               | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/JavaScriptDates/Iteration1.js)     |
 | `20` | [Regex 1](https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex1/Iteration1.js)              |
 | `21` | [Regex 2](https://www.hackerrank.com/challenges/js10-regexp-2/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex2/Iteration1.js)              |
+| `22` | [Regex 3](https://www.hackerrank.com/challenges/js10-regexp-3/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex3/Iteration1.js)              |
