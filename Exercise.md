@@ -45,3 +45,4 @@ The main resource is [Excersim](https://exercism.org).
 | `20` | [Regex 1](https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex1/Iteration1.js)              |
 | `21` | [Regex 2](https://www.hackerrank.com/challenges/js10-regexp-2/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex2/Iteration1.js)              |
 | `22` | [Regex 3](https://www.hackerrank.com/challenges/js10-regexp-3/problem?isFullScreen=true)                                  | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/Regex3/Iteration1.js)              |
+| `23` | [Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/copy-from/269137027)                         | Easy       | [Iteration 1](HackerRank/10DaysOfJavaScript/CreateAButton/Iteration1.js)       |

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Button</title>
+    <style>
+      button {
+        background-color: #f3bd77d0;
+        border: 1px solid #000;
+        border-radius: 5px;
+        color: #000;
+        margin: 0.5em;
+        padding: 0.25em 1em;
+        width: 96px;
+        height: 48px;
+        font-size: 24px;
+      }
+      body {
+        background-color: bisque;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="btn" onclick="(() => this.innerHTML++)()">0</button>
+  </body>
+</html>
+
+<!--
+* HackerRank is just fucking broken.
+* Fuck this shit.
+* Script didn't work. I had to directly write the onclick method like a lambda in the HTML file.
+-->
