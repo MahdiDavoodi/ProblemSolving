@@ -4,7 +4,7 @@
 
 Hey, there. This is a **personal** repository for practicing programming fundamentals. It's public because I wanted to have access to it, whenever I want, wherever I want.
 
-> - Total solved: 119
+> - Total solved: 120
 > - Started from: December 2021
 > - Average level: Easy
 
@@ -16,3 +16,5 @@ Hey, there. This is a **personal** repository for practicing programming fundame
   - _Practices for languages._
 - 🎄 [Topics](Topics.md)
   - _Intermediate to Advanced problems._
+- 📓 [Cracking the coding interview](CTCI.md)
+  - _A good book for problem solving_
